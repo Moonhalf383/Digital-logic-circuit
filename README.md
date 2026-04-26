@@ -41,4 +41,5 @@ flatpak install flathub org.fritzing.Fritzing
 本仓库中的.fzz文件需要通过Fritzing软件打开。
 
 [windows用户seu网盘fritzing下载](https://pan.seu.edu.cn/anyshare/en-us/link/AA945215B958044BC3B8137A9D39876954?_tb=none&expires_at=1970-01-01T08%3A00%3A00%2B08%3A00&item_type=folder&password_required=false&title=fritzing.0.9.3b&type=anonymous&verify_mobile=false)
+
 ![](./images/fritzing.png)
